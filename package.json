@@ -19,18 +19,11 @@
     "build":"npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MiHarsh/Microsoft-Engage-2021.git"
-  },
+
   "keywords": [
     "LiveStream",
     "Server"
   ],
-  "author": "Harsh Mishra <harshm17172612@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MiHarsh/Microsoft-Engage-2021/issues"
-  },
-  "homepage": "https://github.com/MiHarsh/Microsoft-Engage-2021#readme"
+  "author": "Project",
+  "license": "ISC"
 }
